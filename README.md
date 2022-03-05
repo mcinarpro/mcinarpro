@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehmet Cinar.
 - 👀 I’m interested in .NET, node.js, react.js, next.js, tailwindcss & so many things..
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently learning Docker &. NET technologies. .
 - 📫 You can contact me at mehmetcinarpro@gmail.com
 
 <!---
